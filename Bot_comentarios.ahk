@@ -5,7 +5,7 @@ Loop 100
    {
 	Send {Click Left}
 	Sleep 500
-	Send 😂
+	Send confio nas da @slotsdasaof
 	Sleep 200
 	Send {Enter Down} {Enter Up}
 	Sleep 5000
